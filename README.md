@@ -9,7 +9,7 @@
 
 
 <h3 align="center">
-🌱 I’m currently trying to learn App Dev... 
+🌱 Currently Learning App Development 
 </h3>
 
 <h1 align="center">
