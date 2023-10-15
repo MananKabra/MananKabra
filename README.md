@@ -61,8 +61,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
- <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MananKabra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <tr>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MananKabra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manankabra&layout=compact&langs_count=8&theme=algolia"/>
+ </tr>
+ 
 </div>
   
 <br>
