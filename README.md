@@ -61,13 +61,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 
-  <img width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MananKabra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manankabra&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MananKabra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manankabra&layout=compact&langs_count=8&theme=algolia"/>
 <br>
 
 
 <!-- ![MananKabra's GitHub stats](https://github-readme-stats.vercel.app/api?username=MananKabra&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MananKabra&layout=compact)](https://github.com/MananKabra) -->
 
-<img src="https://streak-stats.demolab.com?user=MananKabra&theme=tokyonight&hide_border=true&border_radius=4.7" alt="MananKabra" width="70%"   />
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MananKabra&theme=2077" alt="MananKabra" width="70%"   />
+<img src="https://streak-stats.demolab.com?user=MananKabra&theme=tokyonight&hide_border=true&border_radius=4.7" alt="MananKabra" width="50%"   />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MananKabra&theme=2077" alt="MananKabra" width="50%"   />
