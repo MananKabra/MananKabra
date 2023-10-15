@@ -59,10 +59,13 @@
 
 
 
+<h3 align="center">
+⚙️ GitHub Analytics
+</h3>
+
+<br>
 
 <div align="center">
-⚙️ &nbsp;GitHub Analytics
- <br>
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MananKabra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manankabra&layout=compact&langs_count=8&theme=algolia"/>
 <br>
