@@ -60,7 +60,7 @@
 
 
 <h3 align="center">
-⚙️ GitHub Analytics
+GitHub Analytics
 </h3>
 
 <br>
