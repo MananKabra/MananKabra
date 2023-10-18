@@ -9,7 +9,7 @@
 
 
 <h3 align="center">
-🌱 Currently Learning App Development 
+📱 Currently Learning App Development 
 </h3>
 
 <h1 align="center">
