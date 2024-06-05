@@ -50,13 +50,18 @@
   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 </div>
 
-<p align="center"> 
-  Visitor count<br>
+<h2 align="center"> 
+  Visitor count
+ <br>
+ <br>
   <img src="https://profile-counter.glitch.me/MananKabra/count.svg" />
-</p>
+</h2>
 
 
-
+<h1 align = "center">🏆 GitHub Trophies 🏆</h1>
+ <div align = "center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MananKabra&theme=matrix&no-frame=false&no-bg=true&margin-w=4" width="90%"   />
+</div>
 
 
 <h3 align="center">
