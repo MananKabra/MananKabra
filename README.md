@@ -8,9 +8,9 @@
 
 
 
-<h3 align="center">
-📱 Currently Learning App Development 
-</h3>
+<h2 align="center">
+📱 Currently Learning App Development 📱
+</h2>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
@@ -64,9 +64,9 @@
 </div>
 
 
-<h3 align="center">
+<h2 align="center">
 GitHub Analytics
-</h3>
+</h2>
 
 <br>
 
