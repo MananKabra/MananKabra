@@ -26,7 +26,7 @@
   </p>
   
   <p align="center">
-  <img src= "https://media.giphy.com/media/l0HlRWOxvtUYYAC7m/giphy.gif">
+  <img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9sdnZhNThuNWpva3o3d3Vqb3Qza2VxdnJud2ZyZzUzMjY2NjhqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTRuG1F4VZ3LHMpXY2/giphy.gif">
 </p>
 
 <!-- Tech Stack -->
