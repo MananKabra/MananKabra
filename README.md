@@ -1,5 +1,5 @@
  <h3 align="center">
- Heyy! Manan Kabra here!!
+ Heyy!! Manan Kabra Here!!
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 
 <h2 align="center">
-📱 High On App Development 📱
+📱 High On APP DEV 📱
 </h2>
 
 <h1 align="center">
