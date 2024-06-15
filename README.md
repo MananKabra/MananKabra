@@ -1,5 +1,5 @@
  <h3 align="center">
- Heyy!! Manan Kabra Here!!
+ Helo!! Manan Kabra Here!!
 </h3>
 
 <p align="center">
