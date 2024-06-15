@@ -9,7 +9,7 @@
 
 
 <h2 align="center">
-📱 High On APP DEV 📱
+📱 HIGH ON APP DEV 📱
 </h2>
 
 <h1 align="center">
