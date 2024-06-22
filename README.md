@@ -75,7 +75,7 @@ GitHub Analytics
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manankabra&layout=compact&langs_count=8&theme=algolia"/>
 <br>
 <br>
- <img src="https://streak-stats.demolab.com?user=MananKabra&theme=tokyonight&hide_border=true&border_radius=4.7" alt="MananKabra" width="50%"   />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=manankabra&exclude_days=Fri&theme=tokyonight" alt="MananKabra" width="50%"   />
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MananKabra&theme=2077" alt="MananKabra" width="50%"   />
 </div>
 
