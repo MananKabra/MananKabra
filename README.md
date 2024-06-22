@@ -79,10 +79,6 @@ GitHub Analytics
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MananKabra&theme=2077" alt="MananKabra" width="50%"   />
 </div>
 
-<div>
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MananKabra&theme=dark" alt="GitHub Streak" /></a>
-</div>
-
 
 
 
