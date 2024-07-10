@@ -76,7 +76,7 @@ GitHub Analytics
 <br>
 <br>
  <img src="https://streak-stats.demolab.com/?user=manankabra&exclude_days=Fri&theme=dark&hide_border=false%22%20alt=%22harsh%22%20width=%2250%%22" alt="MananKabra" width="50%"   />
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MananKabra&theme=2077" alt="MananKabra" width="50%"   />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MananKabra&theme=dark" alt="MananKabra" width="50%"   />
 </div>
 
 
