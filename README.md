@@ -71,11 +71,11 @@ GitHub Analytics
 <br>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MananKabra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manankabra&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MananKabra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manankabra&layout=compact&langs_count=8&theme=dark"/>
 <br>
 <br>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=manankabra&exclude_days=Fri&theme=tokyonight" alt="MananKabra" width="50%"   />
+ <img src="https://streak-stats.demolab.com/?user=manankabra&exclude_days=Fri&theme=dark&hide_border=false%22%20alt=%22harsh%22%20width=%2250%%22" alt="MananKabra" width="50%"   />
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MananKabra&theme=2077" alt="MananKabra" width="50%"   />
 </div>
 
